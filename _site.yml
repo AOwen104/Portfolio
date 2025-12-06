@@ -1,8 +1,13 @@
-name: "my-website"
+---
+name: "portfolio"
 navbar:
-  title: "Website Deployment Reflection"
+  title: "Portfolio"
   left:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Project"
+      href: project.html
+output_dir: "docs"
+---
