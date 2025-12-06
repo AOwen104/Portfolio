@@ -1,0 +1,53 @@
+
+---
+title: "About Me"
+
+theme: cosmo
+---
+
+## Background
+
+As a second-year BBA student at VIU with a focus on Human Resources, I am gaining competencies in management and implementation problem-solving, organizational efficiency improvements, and business performance optimization. I attend classes part-time while working a full-time job.
+
+## Skills & Tools
+
+**Analysis:**
+
+- Using R for data analysis, including data manipulation, visualization, and statistical modeling
+- Apply R-based data cleaning and transformation techniques to prepare reliable, analysis-ready datasets
+- Statistical analysis and interpretation
+
+**Visualization & Reporting:**
+
+- Use ggplot2 to produce professional visualizations
+- Create reproducible analytical reports using R Markdown
+- Present analytical results using data storytelling methods that align with the needs of business decision-makers
+
+**Data Sources:**
+
+- Import business data from CSV files
+- Government open data (via APIs)
+- Business performance datasets
+
+## Education
+
+**VIU** - Bachelor of Business Administration Program  
+*Expected Graduation: 2029*
+
+Relevant Coursework:
+
+- Data Analysis for E-Management
+- Business Statistics
+- Organizational Behaviour
+
+## Contact
+
+Feel free to connect with me:
+
+- Email: [aaryn.owen@my.viu.ca](mailto:aaryn.owen@my.viu.ca)
+- LinkedIn: [Aaryn O](https://ca.linkedin.com/in/aaryn-o-2a1024192)
+- GitHub: [AOwen104](https://github.com/AOwen104)
+
+---
+
+[← Back to Home](index.html)

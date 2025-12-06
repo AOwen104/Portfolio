@@ -1,0 +1,28 @@
+---
+title: "My Project"
+author: "Aaryn Owen 547479873"
+date: "2025-12-05"
+output: html_document
+theme: cosmo
+---
+## Business Data Analysis Project
+
+Here is one of my projects demonstrating various data analysis skills.
+
+### Project 1: CSV Import and Data Cleaning
+
+**Objective:** Analyze public datasets to extract business insights
+
+**Key Skills:**
+
+- Importing business data from CSV files
+- Diagnose data quality issues using systematic exploration techniques
+- Transform messy data into analysis-ready data sets using R techniques
+- Aggregate data to create meaningful business summaries and insights
+
+[View detailed analysis →](Project1.html)
+
+---
+
+[← Back to Home](index.html)
+

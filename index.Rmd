@@ -1,0 +1,55 @@
+---
+title: "Website Deployment Reflection"
+
+author: "Aaryn Owen, 547 479 873"
+
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    theme: cosmo
+---
+
+## Website Information
+
+**Live Website URL:** https://AOwen104.github.io/Portfolio
+
+**GitHub Repository URL:** https://github.com/AOwen104/Portfolio
+
+**Project Type:** Individual Portfolio
+
+## Welcome!
+
+I'm Aaryn. I am a second year BBA student and this is my portfolio. Here you'll find 
+projects showcasing my skills in:
+
+- Data cleaning and transformation
+- Statistical analysis
+- Data visualization with ggplot2
+- Professional reporting with R Markdown
+
+## Reflection
+
+Building and deploying this website was at times challenging and frustrating, but ultimately very rewarding when everything came together. The process allowed me to apply the problem-solving skills I’ve developed in this course, especially when troubleshooting errors or blank pages, and gave me a strong sense of accomplishment seeing the final product live.
+
+## Website Overview
+
+My website features my individual portfolio, including my background, education, technical skills, and the tools I’ve developed proficiency in. It also features selected projects from my E-Management course that reflect the skills and learning I have developed during my second year of university.
+
+### Featured Projects
+
+Throughout this portfolio, you'll see analyses covering:
+
+- **Government Data Analysis:** Working with real-world public datasets
+- **Business Performance:** Analyzing operational data for insights
+- **Data Visualization:** Creating compelling charts and graphics
+
+### Navigate This Portfolio
+
+Use the menu above to:
+
+- Learn more [about me](about.html)
+- View my [project](project.html)
+
+---
+
+*This portfolio was built using R Markdown and is hosted on GitHub Pages.*
