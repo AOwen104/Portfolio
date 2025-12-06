@@ -29,7 +29,7 @@ projects showcasing my skills in:
 
 ## Reflection
 
-Building and deploying this website was at times challenging and frustrating, but ultimately very rewarding when everything came together. The process allowed me to apply the problem-solving skills I’ve developed in this course, especially when troubleshooting errors or blank pages, and gave me a strong sense of accomplishment seeing the final product live.
+Building and deploying this website was at times challenging and frustrating, but ultimately very rewarding when everything came together. The process allowed me to apply the problem-solving skills I’ve developed in this course, especially when troubleshooting errors or blank pages, and gave me a strong sense of accomplishment seeing the final product live. One of the errors I encountered was waiting for the site to go live on GitHub. I was only getting a red X error rather than the green check mark and needed to figure out how to fix this issue. I was able to utilize the Unit reading along with Google to get it up and running.
 
 ## Website Overview
 
